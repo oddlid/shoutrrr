@@ -1,6 +1,6 @@
-module github.com/nicholas-fedor/shoutrrr
+module github.com/oddlid/shoutrrr
 
-go 1.25.1
+go 1.24.6
 
 require (
 	github.com/fatih/color v1.18.0

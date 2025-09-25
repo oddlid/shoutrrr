@@ -26,3 +26,7 @@ coverage.txt
 dist
 site/
 docs/services/*/config.md
+
+# Nix temp dirs
+.devenv
+.direnv
